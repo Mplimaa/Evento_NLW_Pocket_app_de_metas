@@ -1,6 +1,6 @@
 O App de Metas é um aplicativo de linha de comando desenvolvido para gerenciar uma lista de metas pessoais. O aplicativo permite que você cadastre novas metas, liste metas, visualize metas realizadas ou abertas, e delete metas. As metas são armazenadas em um arquivo JSON para garantir persistência entre execuções.
 
-Funcionalidades
+Funcionalidades - 
 Cadastrar Meta: Adicione novas metas à sua lista.
 Listar Metas: Veja todas as metas e marque as que foram concluídas.
 Metas Realizadas: Exiba as metas que foram marcadas como concluídas.
