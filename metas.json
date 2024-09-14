@@ -1,0 +1,26 @@
+[
+  {
+    "value": "caminhar",
+    "checked": false
+  },
+  {
+    "value": "meditar",
+    "checked": false
+  },
+  {
+    "value": "dormir 8 hrs. por dia",
+    "checked": true
+  },
+  {
+    "value": "fazer caminhada",
+    "checked": false
+  },
+  {
+    "value": "nadar 3 dias por semana",
+    "checked": false
+  },
+  {
+    "value": "jogar bola",
+    "checked": true
+  }
+]
