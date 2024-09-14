@@ -14,7 +14,8 @@ metas.json: Arquivo JSON que armazena as metas em formato persistente.
 
 
 Execução
-Para iniciar o aplicativo, execute o seguinte comando no terminal Git Bash: node index.js
+Para iniciar o aplicativo, precica instalar o node.js e opcionalmente o Git Bash (para registrar as alterações no seu projeto, pra ficar tudo documentado!).
+Finalizada a instalação, execute o seguinte comando no terminal Git Bash: node index.js
 
 
 Uso
