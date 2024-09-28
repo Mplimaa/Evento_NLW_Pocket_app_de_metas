@@ -27,10 +27,14 @@ Deletar Metas: Selecione as metas que deseja remover da lista.
 
 
 Estrutura de Dados - 
-Tipos de Dados
+Array de Objetos: Utilizado para armazenar as metas, cada uma com as propriedades value e checked.
+
+
+Tipos de Dados - 
 Strings: Representam texto.
 Numbers: Representam números.
 Boolean: Representa valores verdadeiros ou falsos.
+Arrow Functions -Funções de seta: Utilizadas como callbacks, com e sem parâmetros.
 
 
 Variáveis - 
@@ -43,14 +47,6 @@ Atribuição: =
 Concatenação: +
 Comparação: ==, !=, <=, >=, <, >
 Spread Operator: ... para expandir elementos de um array.
-
-
-Estrutura de Dados - 
-Array de Objetos: Utilizado para armazenar as metas, cada uma com as propriedades value e checked.
-
-
-Arrow Functions - 
-Funções de seta: Utilizadas como callbacks, com e sem parâmetros.
 
 
 Sobre - 
